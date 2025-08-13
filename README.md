@@ -17,7 +17,7 @@ I approach development like a field operation: plan the mission, choose the righ
 ## ⚡ Current Loadout
 - **Languages**: Python (core), a bit of JavaScript & C#
 - **Frameworks**: Pygame, Flask (learning more)
-- **Tools**: Git, VS Code, Jupyter, Midjourney/AI assistants
+- **Tools**: Git, VS Code, VS Studio, Jupyter, Midjourney/AI assistants
 - **Focus Areas**: Game mechanics, AI-assisted coding, procedural generation
 
 ---
